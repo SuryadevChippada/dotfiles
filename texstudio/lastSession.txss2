@@ -1,0 +1,32 @@
+{
+    "InternalPDFViewer": {
+        "Embedded": true,
+        "File": "../../Downloads/EiwA_25_Latex_Template/Expose.pdf"
+    },
+    "Session": {
+        "Bookmarks": [
+        ],
+        "CurrentFile": "../../Downloads/EiwA_25_Latex_Template/ExposeBibliography.bib",
+        "FileVersion": 1,
+        "Files": [
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Downloads/EiwA_25_Latex_Template/Expose.tex",
+                "FirstLine": 121,
+                "FoldedLines": "",
+                "Line": 129
+            },
+            {
+                "Col": 0,
+                "EditorGroup": 0,
+                "FileName": "../../Downloads/EiwA_25_Latex_Template/ExposeBibliography.bib",
+                "FirstLine": 197,
+                "FoldedLines": "",
+                "Line": 160
+            }
+        ],
+        "MasterFile": "",
+        "VerticalSplit": false
+    }
+}

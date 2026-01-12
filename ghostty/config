@@ -1,0 +1,32 @@
+# =========================
+# FONT
+# =========================
+font-family = JetBrainsMono Nerd Font
+font-style = Bold
+font-size = 13
+
+# =========================
+# WINDOW
+# =========================
+window-padding-x = 20
+window-padding-y = 20
+
+# Buttonless window (correct value)
+window-decoration = client
+
+background-opacity = 0.76
+background-blur = true
+
+# =========================
+# COLORS (Gruvbox Dark)
+# =========================
+foreground = #ebdbb2
+background = #1d2021
+cursor-color = #ebdbb2
+selection-foreground = #282828
+selection-background = #ebdbb2
+
+mouse-hide-while-typing = true
+macos-option-as-alt = true
+
+custom-shader = ~/.config/ghostty/shaders/shader.glsl

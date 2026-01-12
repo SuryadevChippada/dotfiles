@@ -1,0 +1,72 @@
+{
+    "bibitems": [
+    ],
+    "bibtexfiles": [
+        "/Users/surya.dev/Downloads/EiwA_25_Latex_Template/ExposeBibliography.bib#ExposeBibliography"
+    ],
+    "childdocs": [
+    ],
+    "filename": "/Users/surya.dev/Downloads/EiwA_25_Latex_Template/Expose.tex",
+    "labels": [
+        "motivation",
+        "approach",
+        "schedule"
+    ],
+    "modified": "Sun Dec 7 17:01:56 2025",
+    "packages": [
+        "#natbib",
+        "#longtable",
+        "#xcolor",
+        "#array",
+        "#colortbl",
+        "autostyle#csquotes",
+        " IMRAD=false, english, ruledheaders=section,  class=report,  thesis={type=bachelor},  accentcolor=9c,  custommargins=false, marginpar=false, parskip=half, fontsize=11pt, #class-tudapub",
+        " IMRAD=false, english, ruledheaders=section,  class=report,  thesis={type=bachelor},  accentcolor=9c,  custommargins=false, marginpar=false, parskip=half, fontsize=11pt, #latex-document",
+        " IMRAD=false, english, ruledheaders=section,  class=report,  thesis={type=bachelor},  accentcolor=9c,  custommargins=false, marginpar=false, parskip=half, fontsize=11pt, #tex",
+        "#tabularx",
+        "#booktabs",
+        "#arydshln",
+        "#siunitx",
+        "german, main=english#babel",
+        "#xltabular",
+        "#microtype",
+        "#pgfplots",
+        "#hyperref",
+        "#nameref"
+    ],
+    "refs": [
+    ],
+    "toc": [
+        "1#Motivation#132",
+        "2#Research Questions#146",
+        "1#Approach#155",
+        "2#State-of-the-Art and Positioning#158",
+        "2#Theoretical Framework#164",
+        "2#Methodology#173",
+        "3#Overall Design and Implementation#175",
+        "3#Data, Resources, and Evaluation#178",
+        "1#Schedule#190"
+    ],
+    "usercommands": [
+        [
+            "\\anonymizetrue",
+            "\\anonymizetrue"
+        ],
+        [
+            "\\anonymizefalse",
+            "\\anonymizefalse"
+        ],
+        [
+            "\\ifanonymize",
+            "\\ifanonymize"
+        ],
+        [
+            "",
+            "%color%tudared"
+        ],
+        [
+            "",
+            "\\mathbf{10\\%}"
+        ]
+    ]
+}
