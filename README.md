@@ -19,7 +19,6 @@ Keeping them in GitHub allows me to quickly set up a new machine or restore my p
   - `fastfetch/` – System info tool config
   - `mufetch/` – Another system fetcher
   - `neofetch/` – System fetcher
-  - `raycast/` – Raycast extensions
   - `wtf/` – Custom scripts
 
 - **Other Tools & Apps**
